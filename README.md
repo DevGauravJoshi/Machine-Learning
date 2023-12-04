@@ -8,6 +8,12 @@
   <p>A comprehensive repository designed for seamless model development and analysis. Harness the power of PyTorch, NumPy, Pandas, and Matplotlib in one unified framework. </p>
 </div>
 
+## Table of Contents
+1. [Get Started](##Get-Started)
+   1. [Set up a Virtual Environment](###set-up-a-virtual-environment)
+   2. [Install PyTorch](###install-pytorch)
+   3. [Confirm PyTorch Installation](###confirm-pytorch-installation)
+
 ## Get Started
 
 Follow these steps to set up and run the project on your local machine.
