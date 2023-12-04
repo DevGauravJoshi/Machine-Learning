@@ -9,10 +9,16 @@
 </div>
 
 ## Table of Contents
-1. [Get Started](#Get-Started)
-   1. [Set up a Virtual Environment](#1.-Set-up-a-Virtual-Environment)
-   2. [Install PyTorch](#2.-Install-PyTorch)
-   3. [Confirm PyTorch Installation](#3.-Confirm-PyTorch-Installation)
+
+- [Get Started](#get-started)
+  - [1. Set up a Virtual Environment](#1-set-up-a-virtual-environment)
+    - [Linux](#linux)
+    - [Windows](#windows)
+    - [macOS](#macos)
+  - [2. Install PyTorch](#2-install-pytorch)
+  - [3. Confirm PyTorch Installation](#3-confirm-pytorch-installation)
+
+---
 
 ## Get Started
 
