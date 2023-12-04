@@ -10,9 +10,9 @@
 
 ## Table of Contents
 1. [Get Started](#Get-Started)
-   1. [Set up a Virtual Environment](#set-up-a-virtual-environment)
-   2. [Install PyTorch](#install-pytorch)
-   3. [Confirm PyTorch Installation](#confirm-pytorch-installation)
+   1. [Set up a Virtual Environment](#Set-up-a-Virtual-Environment)
+   2. [Install PyTorch](#Install-PyTorch)
+   3. [Confirm PyTorch Installation](#Confirm-PyTorch-Installation)
 
 ## Get Started
 
