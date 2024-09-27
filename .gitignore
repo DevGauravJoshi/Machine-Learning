@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Data
+1 Supervised Machine Learning
+2 Advanced Learning Algorithms
+
 # Distribution / packaging
 .Python
 build/
