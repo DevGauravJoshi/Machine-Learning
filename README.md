@@ -80,3 +80,67 @@ tensor([[0.3380, 0.3845, 0.3217],
 If you see this output, PyTorch is successfully installed.
 
 ---
+
+# Architectures in machine learning
+
+### **1. Feedforward Neural Networks (FNNs):**
+- **Description:** The simplest type of artificial neural network where information flows in one direction.
+- **Examples:** Multi-Layer Perceptrons (MLPs).
+- **Use Cases:** Tabular data, basic regression, and classification tasks.
+
+---
+
+### **2. Convolutional Neural Networks (CNNs):**
+- **Description:** Specialized networks for processing grid-like data, like images.
+- **Key Features:** Convolution layers for spatial feature extraction.
+- **Use Cases:** Image recognition, object detection, video processing.
+
+---
+
+### **3. Recurrent Neural Networks (RNNs):**
+- **Description:** Networks with loops that allow information persistence, suited for sequential data.
+- **Variants:** Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU).
+- **Use Cases:** Time-series forecasting, speech recognition, language modeling.
+
+---
+
+### **4. Transformers:**
+- **Description:** Architectures that use self-attention mechanisms to process sequential data without relying on recurrence.
+- **Examples:** BERT, GPT, Vision Transformers (ViT).
+- **Use Cases:** Natural Language Processing (NLP), computer vision, generative tasks.
+
+---
+
+### **5. Diffusion Models:**
+- **Description:** Generative models that learn data distribution by gradually denoising data.
+- **Examples:** Denoising Diffusion Probabilistic Models (DDPMs), Latent Diffusion Models (used in Stable Diffusion).
+- **Use Cases:** Image generation, video synthesis, 3D model generation.
+
+---
+
+### **6. Graph Neural Networks (GNNs):**
+- **Description:** Networks designed to work with graph-structured data.
+- **Variants:** Graph Convolutional Networks (GCNs), Graph Attention Networks (GATs).
+- **Use Cases:** Social network analysis, molecular modeling, recommendation systems.
+
+---
+
+### **7. Reinforcement Learning Models:**
+- **Description:** Models that learn by interacting with an environment and receiving feedback (rewards or penalties).
+- **Variants:** Deep Q-Learning, Policy Gradient Methods.
+- **Use Cases:** Robotics, game AI, autonomous systems.
+
+---
+
+### **8. Attention-Based Models Beyond Transformers:**
+- **Description:** Other models utilizing attention mechanisms outside transformer-based architectures.
+- **Examples:** Memory-Augmented Neural Networks, Neural Turing Machines.
+- **Use Cases:** Complex reasoning, long-term dependency tasks.
+
+---
+
+### Choosing the Right Model:
+The choice depends on your data type, computational resources, and specific use case. For example:
+- Vision tasks? Start with **CNNs** or **ViTs**.
+- Sequential data? Try **RNNs**, **Transformers**, or **Diffusion Models** for generative tasks.
+- Graphs? Use **GNNs**.
