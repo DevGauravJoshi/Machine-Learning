@@ -8,6 +8,14 @@
   <p>A comprehensive repository designed for seamless model development and analysis. Harness the power of PyTorch, NumPy, Pandas, and Matplotlib in one unified framework. </p>
 </div>
 
+```
+1. Download a paper.
+2. Implement it.
+3. Keep doing this unitl you have skills.
+
+- George Hotz
+```
+
 ## Table of Contents
 
 - [Get Started](#get-started)
